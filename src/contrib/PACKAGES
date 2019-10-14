@@ -5,5 +5,5 @@ Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr,
         survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 086300d6f1a6b5ac658cc1d292bd3f50
+MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
