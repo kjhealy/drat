@@ -1,6 +1,10 @@
-# Drat Repository for github.com/kjhealy
+---
+layout: default
+title: Drat Repository github.com/kjhealy
+---
 
-This contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the `gssr` package, which has too much data and too few functions to be a CRAN candidate. 
+
+This repository contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the `gssr` package, which has too much data and too few functions to be a CRAN candidate. 
 The benefit of a `drat` archive like this is that you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. E.g.,
 
 ```{r}
