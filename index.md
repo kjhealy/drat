@@ -20,7 +20,7 @@ install.packages("gssr")
 
 To ensure that this repository is always available to you in R, you can add the following line to your `.Rprofile` or `.Rprofile.site` file:
 
-```{r rprofile}
+```{r}
 drat::addRepo("kjhealy", "http://kjhealy.github.io/drat")
 ```
 
