@@ -1,9 +1,9 @@
 Package: gssr
-Version: 0.1.0
+Version: 0.2.0
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: forcats, ggplot2, haven, panelr, scales, stringr, survey,
-        srvyr, tidyr, knitr, rmarkdown
+Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr,
+        survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: e7ca2b4fb8347a1d8acf2c3a4beb9983
+MD5sum: 086300d6f1a6b5ac658cc1d292bd3f50
 NeedsCompilation: no
