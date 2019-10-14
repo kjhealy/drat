@@ -4,6 +4,8 @@ title: Drat Repository github.com/kjhealy
 ---
 
 
+## What is this
+
 This repository contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the `gssr` package, which has too much data and too few functions to be a CRAN candidate. 
 The benefit of a `drat` archive like this is that you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. E.g.,
 
@@ -15,6 +17,16 @@ if (!require("drat")) {
 drat::addRepo("kjhealy")
 install.packages("gssr")
 ```
+
+To ensure that this repository is always available to you in R, you can add the following line to your `.Rprofile` or `.Rprofile.site` file:
+
+```{r rprofile}
+drat::addRepo("kjhealy", "http://kjhealy.github.io/drat")
+```
+
+This will allow you to use, e.g., `install.packages("gssr")` or `update.packages("gssr").
+
+## Learn More
 
 To learn about the `gssr` package, see [the gssr package documentation](https://kjhealy.github.io/gssr/).
 
