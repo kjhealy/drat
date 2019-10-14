@@ -16,4 +16,6 @@ drat::addRepo("kjhealy")
 install.packages("gssr")
 ```
 
+To learn about the `gssr` package, see [the gssr package documentation](https://kjhealy.github.io/gssr/).
+
 For more on using drat (a package by Dirk Eddelbuettel), see [this vignette](http://eddelbuettel.github.io/drat/DratForPackageUsers.html). 
