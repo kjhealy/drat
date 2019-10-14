@@ -24,7 +24,7 @@ To ensure that this repository is always available to you in R, you can add the 
 drat::addRepo("kjhealy")
 ```
 
-This will allow you to use, e.g., `install.packages("gssr")` or `update.packages("gssr").
+This will allow you to use, e.g., `install.packages("gssr")` or `update.packages("gssr")`.
 
 ## Learn More
 
