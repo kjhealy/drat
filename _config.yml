@@ -1,0 +1,5 @@
+markdown: kramdown
+highlighter: rouge
+url: http://kjhealy.github.io/drat
+author: Kieran Healy
+description: R, data, gssr
