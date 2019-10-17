@@ -8,8 +8,8 @@ title: Drat Repository github.com/kjhealy
 
 This repository contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the following two packages: 
 
-- `gssr`. Provides data files from the General Social Survey. ([Read the package documentation](https://kjhealy.github.io/gssr/).
-- `nycdogs`. Datasets on dog licenses, bites, and locations in New York City.  ([Read the package documentation](https://kjhealy.github.io/nycdogs/). 
+- `gssr`. Provides data files from the General Social Survey. ([Read the package documentation](https://kjhealy.github.io/gssr/).)
+- `nycdogs`. Datasets on dog licenses, bites, and locations in New York City.  ([Read the package documentation](https://kjhealy.github.io/nycdogs/).)
 
 Both of these are data packages, which makes them unsuitable for hosting CRAN. The benefit of a `drat` archive like this is that you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. E.g.,
 
