@@ -6,8 +6,9 @@ title: Drat Repository github.com/kjhealy
 
 ## What is this
 
-This repository contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the following two packages: 
+This repository contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the following packages: 
 
+- `congress`. US Congressional Representatives 1945-2019. ([Read the package documentation](https://kjhealy.github.io/congress/).)
 - `gssr`. Provides data files from the General Social Survey. ([Read the package documentation](https://kjhealy.github.io/gssr/).)
 - `nycdogs`. Datasets on dog licenses, bites, and locations in New York City.  ([Read the package documentation](https://kjhealy.github.io/nycdogs/).)
 
@@ -19,7 +20,6 @@ if (!require("drat")) {
     library("drat")
 }
 drat::addRepo("kjhealy")
-install.packages("gssr")
 
 install.packages("nycdogs")
 ```
@@ -30,7 +30,7 @@ To ensure that this repository is always available to you in R, you can add the 
 drat::addRepo("kjhealy")
 ```
 
-This will allow you to use, e.g., `install.packages("gssr")` or `update.packages("gssr")`.
+This will allow you to use, e.g., `install.packages("nycdogs")` or `update.packages("nycdogs")`.
 
 ## Learn More
 
