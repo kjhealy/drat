@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Drat Repository github.com/kjhealy
+title: Drat Repository for R Data Packages on github.com/kjhealy
 ---
 
 
 ## What is this
 
-This repository contains the latest stable builds of my R packages that aren't suitable for CRAN. At present, that's the following packages: 
+This repository contains the latest stable builds of [my](https://kieranhealy.org) R packages that aren't suitable for CRAN. At present, that's the following packages: 
 
 - `congress`. US Congressional Representatives 1945-2019. ([Read the package documentation](https://kjhealy.github.io/congress/).)
 - `gssr`. Provides data files from the General Social Survey. ([Read the package documentation](https://kjhealy.github.io/gssr/).)
