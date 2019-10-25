@@ -8,7 +8,7 @@ title: Drat Repository for R Data Packages on github.com/kjhealy
 
 This repository contains the latest stable builds of [my](https://kieranhealy.org) R packages that aren't suitable for CRAN. At present, that's the following packages: 
 
--`cavax`. [Vaccination Exemptions in California Kindergartens](https://kjhealy.github.io/cavax/).
+- `cavax`. [Vaccination Exemptions in California Kindergartens](https://kjhealy.github.io/cavax/).
 - `congress`. [US Congressional Representatives 1945-2019](https://kjhealy.github.io/congress/).
 - `gssr`. [Provides data files from the General Social Survey](https://kjhealy.github.io/gssr/).
 - `nycdogs`. [Datasets on dog licenses, bites, and locations in New York City](https://kjhealy.github.io/nycdogs/). 
