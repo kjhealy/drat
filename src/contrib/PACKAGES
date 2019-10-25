@@ -1,3 +1,10 @@
+Package: cavax
+Version: 0.0.0.9000
+Depends: R (>= 3.5)
+License: MIT + file LICENSE
+MD5sum: fd762fb6732e368974b24f98d7ac3e5b
+NeedsCompilation: no
+
 Package: congress
 Version: 0.1.0
 Depends: R (>= 3.5)
