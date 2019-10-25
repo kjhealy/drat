@@ -8,11 +8,12 @@ title: Drat Repository for R Data Packages on github.com/kjhealy
 
 This repository contains the latest stable builds of [my](https://kieranhealy.org) R packages that aren't suitable for CRAN. At present, that's the following packages: 
 
-- `congress`. US Congressional Representatives 1945-2019. ([Read the package documentation](https://kjhealy.github.io/congress/).)
-- `gssr`. Provides data files from the General Social Survey. ([Read the package documentation](https://kjhealy.github.io/gssr/).)
-- `nycdogs`. Datasets on dog licenses, bites, and locations in New York City.  ([Read the package documentation](https://kjhealy.github.io/nycdogs/).)
+-`cavax`. [Vaccination Exemptions in California Kindergartens](https://kjhealy.github.io/cavax/).
+- `congress`. [US Congressional Representatives 1945-2019](https://kjhealy.github.io/congress/).
+- `gssr`. [Provides data files from the General Social Survey](https://kjhealy.github.io/gssr/).
+- `nycdogs`. [Datasets on dog licenses, bites, and locations in New York City](https://kjhealy.github.io/nycdogs/). 
 
-Both of these are data packages, which makes them unsuitable for hosting CRAN. The benefit of a `drat` archive like this is that you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. E.g.,
+These are all data packages, which makes them unsuitable for hosting CRAN. The benefit of a `drat` archive like this is that you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. E.g.,
 
 ```{r}
 if (!require("drat")) {
