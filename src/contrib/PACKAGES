@@ -16,7 +16,7 @@ Package: demog
 Version: 0.0.0.9000
 Depends: R (>= 3.5)
 License: MIT + file LICENSE
-MD5sum: 9744dd0339ed40ef4501954da9d294bb
+MD5sum: 6f368c0f4ba4b2edddcb74ff6de82c9e
 NeedsCompilation: no
 
 Package: gssr
