@@ -29,6 +29,12 @@ License: MIT + file LICENSE
 MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
 
+Package: kjhnet
+Version: 0.0.0.9000
+License: MIT + file LICENSE
+MD5sum: dde8eb16c9c80db4fd5204a804db6602
+NeedsCompilation: no
+
 Package: nycdogs
 Version: 0.1.0
 Depends: R (>= 3.5)
