@@ -32,7 +32,7 @@ NeedsCompilation: no
 Package: kjhnet
 Version: 0.0.0.9000
 License: MIT + file LICENSE
-MD5sum: 279a7ea982e2a1a86e2c54d7592b8e98
+MD5sum: 89d65bcf06dd0cf8350dc87a0e596352
 NeedsCompilation: no
 
 Package: nycdogs
