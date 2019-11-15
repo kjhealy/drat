@@ -23,8 +23,8 @@ Package: gssr
 Version: 0.2.0
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr,
-           rmarkdown
+Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr,
+          knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
@@ -32,7 +32,7 @@ NeedsCompilation: no
 Package: kjhnet
 Version: 0.0.0.9000
 License: MIT + file LICENSE
-MD5sum: 89d65bcf06dd0cf8350dc87a0e596352
+MD5sum: c6233788015ac0790fe58436541f4ab6
 NeedsCompilation: no
 
 Package: nycdogs
