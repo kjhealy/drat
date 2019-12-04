@@ -19,12 +19,17 @@ License: MIT + file LICENSE
 MD5sum: 4593dcee16a1072bf8b0017604074b87
 NeedsCompilation: no
 
+Package: farsdata
+Version: 0.0.0.9000
+License: MIT + file LICENSE
+MD5sum: edf7d64b571f1d3435adaa79b3085e3c
+NeedsCompilation: no
+
 Package: gssr
 Version: 0.2.0
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr,
-          knitr, rmarkdown
+Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
