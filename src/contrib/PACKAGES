@@ -22,7 +22,7 @@ NeedsCompilation: no
 Package: farsdata
 Version: 0.0.0.9000
 License: MIT + file LICENSE
-MD5sum: edf7d64b571f1d3435adaa79b3085e3c
+MD5sum: 435a25c20c3081a28d43dba3417e0c00
 NeedsCompilation: no
 
 Package: gssr
