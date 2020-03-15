@@ -13,6 +13,7 @@ This repository contains the latest stable builds of [my](https://kieranhealy.or
 - `gssr`. [Provides data files from the General Social Survey](https://kjhealy.github.io/gssr/).
 - `nycdogs`. [Datasets on dog licenses, bites, and locations in New York City](https://kjhealy.github.io/nycdogs/). 
 - `ukelection2019`. [Candidate-level vote data within constituencies for the 2019 UK General Election](https://kjhealy.github.io/ukelection2019/). 
+- `uscenpops`. [Annual decennial and intercensal estimates of the US Population by year of age and sex, from 1900 to 2019](https://kjhealy.github.io/uscenpops/)
 
 These are all data packages, which is what makes them unsuitable for hosting CRAN. The benefit of a `drat` archive like this is that you can install and upgrade non-CRAN packages directly from R using the standard `install.packages()` and `update.packages()` functions. What you need to do is, install `drat` and then use it to make R aware of this repository. Like so:
 

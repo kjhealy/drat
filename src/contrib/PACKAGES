@@ -29,8 +29,7 @@ Package: gssr
 Version: 0.2.0
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr,
-        survey, srvyr, tidyr, knitr, rmarkdown
+Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
@@ -52,4 +51,10 @@ Package: ukelection2019
 Version: 0.0.0.9000
 License: MIT + file LICENSE
 MD5sum: e1d8ee982df151f56e7e45bcdba06431
+NeedsCompilation: no
+
+Package: uscenpops
+Version: 0.0.0.9000
+License: MIT + file LICENSE
+MD5sum: 28e3a11a0b23a6adeb44614767c55102
 NeedsCompilation: no
