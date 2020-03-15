@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drat Repository for R Data Packages on github.com/kjhealy
+title: R Data Packages on github.com/kjhealy
 ---
 
 
