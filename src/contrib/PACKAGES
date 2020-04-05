@@ -6,10 +6,10 @@ MD5sum: 6ab8ae458b68c631884962c722c7f1b8
 NeedsCompilation: no
 
 Package: congress
-Version: 0.1.0
+Version: 0.2.0
 Depends: R (>= 3.5)
 License: MIT + file LICENSE
-MD5sum: 0f86acde8f3cb1bea5ba8c1780447e09
+MD5sum: e48d5b50a415c07c13167f0186476609
 NeedsCompilation: no
 
 Package: demog
@@ -29,7 +29,8 @@ Package: gssr
 Version: 0.2.0
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
+Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr,
+           rmarkdown
 License: MIT + file LICENSE
 MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
