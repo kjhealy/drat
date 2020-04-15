@@ -13,10 +13,10 @@ MD5sum: e48d5b50a415c07c13167f0186476609
 NeedsCompilation: no
 
 Package: covdata
-Version: 0.1.0.9000
+Version: 0.1.1.9000
 Depends: R (>= 2.10)
 License: MIT + file LICENSE
-MD5sum: c723acf6d7b5a7a236afdd2f5ebf628b
+MD5sum: 10d2f9cd878ade5d4844744065b87131
 NeedsCompilation: no
 
 Package: demog
@@ -36,8 +36,7 @@ Package: gssr
 Version: 0.2.0
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr,
-           rmarkdown
+Suggests: drat, forcats, ggplot2, haven, panelr, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: b4ab95bb2a57ad075ce4355f92be8b22
 NeedsCompilation: no
