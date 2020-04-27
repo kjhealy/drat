@@ -13,10 +13,10 @@ MD5sum: e48d5b50a415c07c13167f0186476609
 NeedsCompilation: no
 
 Package: covdata
-Version: 0.1.4.9000
+Version: 0.1.5.9000
 Depends: R (>= 2.10)
 License: MIT + file LICENSE
-MD5sum: e3917682ba77db9ffaf100f66f417d46
+MD5sum: 4b0809cfd53fd89401327f30695ffb7b
 NeedsCompilation: no
 
 Package: demog

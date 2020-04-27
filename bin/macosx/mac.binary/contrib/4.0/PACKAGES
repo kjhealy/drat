@@ -1,5 +1,5 @@
 Package: covdata
-Version: 0.1.4.9000
+Version: 0.1.5.9000
 Depends: R (>= 2.10)
 License: MIT + file LICENSE
-MD5sum: dc72c5fcbf5b184b16b0929b161400aa
+MD5sum: a9ab4a045774d6e136a11ecd030d7674
