@@ -10,7 +10,7 @@ This repository contains the latest stable builds of [my](https://kieranhealy.or
 
 - `cavax`. [Vaccination Exemptions in California Kindergartens](https://kjhealy.github.io/cavax/).
 - `congress`. [US Congressional Representatives 1945-2019](https://kjhealy.github.io/congress/).
-- `covdata`. [COVID-19 case and fatality data for countries and US states](https://kjhealy.github.io/covdata/).
+- `covdata`. [COVID-19 related data from a variety of sources](https://kjhealy.github.io/covdata/).
 - `gssr`. [Provides data files from the General Social Survey](https://kjhealy.github.io/gssr/).
 - `nycdogs`. [Datasets on dog licenses, bites, and locations in New York City](https://kjhealy.github.io/nycdogs/). 
 - `ukelection2019`. [Candidate-level vote data within constituencies for the 2019 UK General Election](https://kjhealy.github.io/ukelection2019/). 
