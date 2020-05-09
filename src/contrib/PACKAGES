@@ -13,11 +13,11 @@ MD5sum: e48d5b50a415c07c13167f0186476609
 NeedsCompilation: no
 
 Package: covdata
-Version: 0.1.7.9000
+Version: 0.1.8.9000
 Depends: R (>= 2.10)
 Suggests: ggforce, ggrepel, knitr, rmarkdown, scales, tidyverse
 License: MIT + file LICENSE
-MD5sum: 8cbf58f331b9ad7668177499eb11f0cd
+MD5sum: 58d5b77333ce360c949e803bd9bcfb47
 NeedsCompilation: no
 
 Package: demog
