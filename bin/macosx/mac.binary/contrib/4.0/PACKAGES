@@ -3,4 +3,4 @@ Version: 0.1.8.9000
 Depends: R (>= 2.10)
 Suggests: ggforce, ggrepel, knitr, rmarkdown, scales, tidyverse
 License: MIT + file LICENSE
-MD5sum: 3fdc7fb189926e8dc214c616d18e77ea
+MD5sum: 42302073a3b9782b86cad4866afe1dc0
