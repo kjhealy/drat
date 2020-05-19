@@ -17,7 +17,7 @@ Version: 0.1.9.9000
 Depends: R (>= 2.10)
 Suggests: ggforce, ggrepel, knitr, rmarkdown, scales, tidyverse
 License: MIT + file LICENSE
-MD5sum: b311d5a9ef0afd68db1749c75211681a
+MD5sum: b8b5eff6074ea97d0bea2c5c8ea45a44
 NeedsCompilation: no
 
 Package: demog
