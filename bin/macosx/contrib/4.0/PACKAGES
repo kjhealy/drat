@@ -1,6 +1,6 @@
 Package: covdata
-Version: 0.2.4.9000
+Version: 0.2.5.9000
 Depends: R (>= 2.10)
 Suggests: ggforce, ggrepel, knitr, rmarkdown, scales, slider, tidyverse
 License: MIT + file LICENSE
-MD5sum: 9d5243156d9c1fcb5548ca277d7ec6bf
+MD5sum: 8ca14df78c80660640a5311d52a92314
