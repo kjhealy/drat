@@ -39,7 +39,7 @@ Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: cb012480f23ca9566b0d88732542e31f
+MD5sum: 432a7ac356c0f60ac437eded51769204
 NeedsCompilation: no
 
 Package: kjhnet
