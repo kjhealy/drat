@@ -4,3 +4,11 @@ Depends: R (>= 2.10)
 Suggests: ggforce, ggrepel, knitr, rmarkdown, scales, skimr, slider, tidyverse
 License: MIT + file LICENSE
 MD5sum: e97bdb37b8eda015aefddab3e1d83c1f
+
+Package: gssr
+Version: 0.2.1.9000
+Depends: R (>= 3.5)
+Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
+Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: f4167f42dd0005a40b67d94c2bc27720
