@@ -3,7 +3,7 @@ Version: 0.2.9.9000
 Depends: R (>= 2.10)
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 7b7310cd4cdc8dad09375f401f3d9bc4
+MD5sum: 8af2406703f6869f9fd71702b56d86d0
 
 Package: gssr
 Version: 0.2.1.9000
