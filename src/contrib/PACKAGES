@@ -15,9 +15,10 @@ NeedsCompilation: no
 Package: covdata
 Version: 0.2.9.9000
 Depends: R (>= 2.10)
+Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: e315d023c4f53b39ca291a7d38580b8c
+MD5sum: b896e042fe7d52f4cb6d4d14443a81a0
 NeedsCompilation: no
 
 Package: demog
