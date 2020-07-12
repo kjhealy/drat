@@ -18,7 +18,7 @@ Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: b896e042fe7d52f4cb6d4d14443a81a0
+MD5sum: 0379d3554408e125732a194882aa6928
 NeedsCompilation: no
 
 Package: demog
