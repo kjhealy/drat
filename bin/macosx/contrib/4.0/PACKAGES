@@ -119,6 +119,14 @@ Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, 
 License: MIT + file LICENSE
 MD5sum: df31bd3f703a4e91e218b9a78d9b4a1d
 
+Package: covdata
+Version: 0.5
+Depends: R (>= 2.10)
+Imports: dplyr, magrittr, tidyr
+Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
+License: MIT + file LICENSE
+MD5sum: 57768b0df41f28c2dcc3f6553f61ba17
+
 Package: gssr
 Version: 0.2.1.9000
 Depends: R (>= 3.5)
