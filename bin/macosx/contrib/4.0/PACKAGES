@@ -125,7 +125,7 @@ Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 57768b0df41f28c2dcc3f6553f61ba17
+MD5sum: 2b734968e095995581e46f3f26d9c96f
 
 Package: gssr
 Version: 0.2.1.9000
