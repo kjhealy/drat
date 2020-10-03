@@ -6,11 +6,12 @@ title: R Data Packages on github.com/kjhealy
 
 ## Where am I? What is this?
 
-This repository contains the latest stable builds of [my](https://kieranhealy.org) R packages that aren't suitable for CRAN. At present, that's the following packages: 
+This repository contains the latest versions of [my](https://kieranhealy.org) R packages that aren't suitable for CRAN. At present, that's the following data packages: 
 
 - `cavax`. [Vaccination Exemptions in California Kindergartens](https://kjhealy.github.io/cavax/).
 - `congress`. [US Congressional Representatives 1945-2019](https://kjhealy.github.io/congress/).
 - `covdata`. [COVID-19 related data from a variety of sources](https://kjhealy.github.io/covdata/).
+- `covmobility`. [COVID-19 related data from Apple and Google](https://kjhealy.github.io/covmobility/).
 - `gssr`. [Provides data files from the General Social Survey](https://kjhealy.github.io/gssr/).
 - `nycdogs`. [Datasets on dog licenses, bites, and locations in New York City](https://kjhealy.github.io/nycdogs/). 
 - `ukelection2019`. [Candidate-level vote data within constituencies for the 2019 UK General Election](https://kjhealy.github.io/ukelection2019/). 
