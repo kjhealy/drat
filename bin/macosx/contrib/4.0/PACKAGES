@@ -141,7 +141,7 @@ Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 3eca2a12a674932de3175f9adaf0fd46
+MD5sum: c2736598814d4f642d4ea1a070050796
 
 Package: covdata
 Version: 0.5
