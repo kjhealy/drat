@@ -6,13 +6,21 @@ Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, 
 License: MIT + file LICENSE
 MD5sum: 956dd95e7d121d4a1c7a938fe0e4757f
 
+Package: covdata
+Version: 0.5.6
+Depends: R (>= 2.10)
+Imports: dplyr, magrittr, tidyr
+Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
+License: MIT + file LICENSE
+MD5sum: 02086ec3bb8060f6ec12439d10f3d1f5
+
 Package: covmobility
 Version: 0.1
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 42f9cef93a08290bdf543fddcb3a2acc
+MD5sum: 3db3c2e4997f21f9d19ec841ac5d9ee9
 
 Package: gssr
 Version: 0.2.1.9000
