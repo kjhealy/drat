@@ -12,6 +12,13 @@ License: MIT + file LICENSE
 MD5sum: e48d5b50a415c07c13167f0186476609
 NeedsCompilation: no
 
+Package: congress
+Version: 0.3.0
+Depends: R (>= 3.5)
+License: MIT + file LICENSE
+MD5sum: a461194332082d91e60a7bebfd8bb42d
+NeedsCompilation: no
+
 Package: covdata
 Version: 0.5.5
 Depends: R (>= 2.10)

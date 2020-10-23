@@ -1,3 +1,9 @@
+Package: congress
+Version: 0.3.0
+Depends: R (>= 3.5)
+License: MIT + file LICENSE
+MD5sum: b62a4579e4f7163ea980640b8bfb33b2
+
 Package: covdata
 Version: 0.5.5
 Depends: R (>= 2.10)
