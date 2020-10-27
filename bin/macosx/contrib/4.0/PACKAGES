@@ -26,7 +26,7 @@ Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: b68b8c90a5aa7fa3a25e2a6d34996da6
+MD5sum: 1fd43761c072911f33eea75e8eb38505
 
 Package: covmobility
 Version: 0.1.1

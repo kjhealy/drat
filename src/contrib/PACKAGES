@@ -43,7 +43,7 @@ Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
 Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 4dfe8d6bc65cc527c6c57c694868d52a
+MD5sum: a2004d069a754d3f21ef47e1cceb9e38
 NeedsCompilation: no
 
 Package: covmobility
