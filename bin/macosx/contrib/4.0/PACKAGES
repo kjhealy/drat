@@ -37,6 +37,14 @@ License: MIT + file LICENSE
 MD5sum: c2aee7223eca4c5bfca23c7b8e862835
 
 Package: covmobility
+Version: 0.1.2
+Depends: R (>= 2.10)
+Imports: dplyr, magrittr, tidyr
+Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
+License: MIT + file LICENSE
+MD5sum: b26ef56edb90b61e58f1b3bb4826a525
+
+Package: covmobility
 Version: 0.1
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
