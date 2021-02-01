@@ -13,24 +13,6 @@ MD5sum: a461194332082d91e60a7bebfd8bb42d
 NeedsCompilation: no
 
 Package: covdata
-Version: 0.6.0
-Depends: R (>= 2.10)
-Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
-License: MIT + file LICENSE
-MD5sum: e8a4a588a8a6c2cb2ae5e329b2ef115a
-NeedsCompilation: no
-
-Package: covdata
-Version: 0.6.1
-Depends: R (>= 2.10)
-Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
-License: MIT + file LICENSE
-MD5sum: 3bafd843138b872aace7708b6c2822aa
-NeedsCompilation: no
-
-Package: covdata
 Version: 0.6.2
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr

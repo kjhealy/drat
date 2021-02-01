@@ -5,22 +5,6 @@ License: MIT + file LICENSE
 MD5sum: b62a4579e4f7163ea980640b8bfb33b2
 
 Package: covdata
-Version: 0.6.0
-Depends: R (>= 2.10)
-Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
-License: MIT + file LICENSE
-MD5sum: 8234d5e41a7a782739e5603e1fccda9d
-
-Package: covdata
-Version: 0.6.1
-Depends: R (>= 2.10)
-Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
-License: MIT + file LICENSE
-MD5sum: 7de2a7b03a6bf9b5049f699c2f9740c9
-
-Package: covdata
 Version: 0.6.2
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
