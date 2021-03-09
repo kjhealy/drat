@@ -22,12 +22,12 @@ MD5sum: f0d4b3138b0f6476c9e16a18bf9600af
 NeedsCompilation: no
 
 Package: covmobility
-Version: 0.1.2
-Depends: R (>= 2.10)
+Version: 0.1.8
+Depends: R (>= 3.5.0)
 Imports: dplyr, magrittr, tidyr
-Suggests: ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 014438e04868d00793d9e85796457bbd
+MD5sum: 35791aacf6f9063da6f28cb86fcead36
 NeedsCompilation: no
 
 Package: demog
