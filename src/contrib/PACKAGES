@@ -13,19 +13,21 @@ MD5sum: a461194332082d91e60a7bebfd8bb42d
 NeedsCompilation: no
 
 Package: covdata
-Version: 0.7.7
+Version: 0.8
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales,
+        skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
-MD5sum: 8f453d29d4e8b3e71dfd715e96f3d00a
+MD5sum: 84f3f13b83fe1aaa2efdb01ec879e103
 NeedsCompilation: no
 
 Package: covmobility
 Version: 0.1.8
 Depends: R (>= 3.5.0)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales,
+        skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 35791aacf6f9063da6f28cb86fcead36
 NeedsCompilation: no
@@ -47,7 +49,8 @@ Package: gssr
 Version: 0.2.1.9000
 Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
+Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey,
+        srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: 4281158e3851c0ed5dbcb6fa45745dba
 NeedsCompilation: no
