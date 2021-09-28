@@ -13,4 +13,4 @@ Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 3d838ea90973de4c27b1feab627684b4
+MD5sum: 0a9439cdf6be01546713ac9ccbeaa42c

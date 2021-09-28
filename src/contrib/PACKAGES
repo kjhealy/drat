@@ -51,7 +51,7 @@ Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 3b3858ab620f03d3f1ff1652f709a567
+MD5sum: af22e31d6796bb4e2eaf09026f67118f
 NeedsCompilation: no
 
 Package: kjhnet
