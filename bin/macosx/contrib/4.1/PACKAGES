@@ -2,8 +2,7 @@ Package: covdata
 Version: 0.8
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse,
-           testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 53ab72c9306e5d6c88eefc817392c9b4
 
@@ -13,4 +12,4 @@ Depends: R (>= 3.5)
 Imports: dplyr, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, haven, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 0a9439cdf6be01546713ac9ccbeaa42c
+MD5sum: 397a2e05b68c8d18e0bd8788da9ba414
