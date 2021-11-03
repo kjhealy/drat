@@ -46,13 +46,13 @@ MD5sum: 435a25c20c3081a28d43dba3417e0c00
 NeedsCompilation: no
 
 Package: gssr
-Version: 0.3.4.9000
+Version: 0.3.4
 Depends: R (>= 3.5)
 Imports: curl, dplyr, fs, haven, here, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr,
          rmarkdown
 License: MIT + file LICENSE
-MD5sum: e80d787f8d5da83df369b946f5b1d32c
+MD5sum: 8d7bd392e404c5f0d7512f3def241ee8
 NeedsCompilation: no
 
 Package: kjhnet
