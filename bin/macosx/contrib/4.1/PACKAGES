@@ -2,17 +2,16 @@ Package: covdata
 Version: 0.9
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales,
-        skimr, slider, tidyverse, testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr,
+         slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 4364d7cf8d0e46719da1b2c32e0655da
 
 Package: gssr
-Version: 0.3.3.9000
+Version: 0.3.4.9000
 Depends: R (>= 3.5)
-Imports: curl, dplyr, fs, haven, here, magrittr, purrr, rlang, tibble,
-        tidyselect
-Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr,
-        tidyr, knitr, rmarkdown
+Imports: curl, dplyr, fs, haven, here, magrittr, purrr, rlang, tibble, tidyselect
+Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr,
+         rmarkdown
 License: MIT + file LICENSE
-MD5sum: a8222ae9c66498f156464e980154f242
+MD5sum: dcff57b11eefd5fe2e49d97c7052625d
