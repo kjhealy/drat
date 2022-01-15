@@ -62,10 +62,10 @@ MD5sum: c6233788015ac0790fe58436541f4ab6
 NeedsCompilation: no
 
 Package: nycdogs
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.5)
 License: MIT + file LICENSE
-MD5sum: b63ee557c1d9f6951cfc7178b5ceecbd
+MD5sum: fa63cc3edea8fb483c97a5ac19b13240
 NeedsCompilation: no
 
 Package: ukelection2019

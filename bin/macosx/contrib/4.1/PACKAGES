@@ -17,7 +17,7 @@ License: MIT + file LICENSE
 MD5sum: dcff57b11eefd5fe2e49d97c7052625d
 
 Package: nycdogs
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.5)
 License: MIT + file LICENSE
-MD5sum: db2ce6216be46d4a3bbfb19b211d4017
+MD5sum: 6ccd733f9675b777b48bdefba18227ae
