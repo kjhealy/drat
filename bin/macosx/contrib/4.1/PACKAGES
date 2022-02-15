@@ -13,7 +13,7 @@ Depends: R (>= 3.5)
 Imports: curl, dplyr, fs, haven, here, magrittr, purrr, rlang, tibble, tidyselect
 Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 134ecb69424f43599cc843a49d8e8e9d
+MD5sum: 0bf4a1cd964882f7ced830667970b923
 
 Package: nycdogs
 Version: 0.1.2
