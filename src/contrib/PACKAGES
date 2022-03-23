@@ -16,8 +16,8 @@ Package: covdata
 Version: 0.9
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse,
-          testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr,
+         slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 20fe8e544b459425caeb5f9e1c1b879a
 NeedsCompilation: no
@@ -26,8 +26,8 @@ Package: covmobility
 Version: 0.1.8
 Depends: R (>= 3.5.0)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse,
-          testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr,
+         slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 35791aacf6f9063da6f28cb86fcead36
 NeedsCompilation: no
@@ -46,12 +46,13 @@ MD5sum: 435a25c20c3081a28d43dba3417e0c00
 NeedsCompilation: no
 
 Package: gssr
-Version: 0.3.5
+Version: 0.3.6
 Depends: R (>= 3.5)
 Imports: curl, dplyr, fs, haven, here, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
+Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr,
+         rmarkdown
 License: MIT + file LICENSE
-MD5sum: d2a7bb07b124f5d62e023b630e8c7f89
+MD5sum: ec692656a01a54c66a9a2fc87f97156e
 NeedsCompilation: no
 
 Package: kjhnet
