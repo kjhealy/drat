@@ -1,0 +1,7 @@
+Package: nycomplaints
+Version: 0.1.0
+Depends: R (>= 2.10)
+Imports: dplyr, magrittr, tidyr
+Suggests: drat, lubridate, knitr, rmarkdown, scales, skimr, tidyverse, testthat
+License: MIT + file LICENSE
+MD5sum: e177e4d09c9c33d797b1880dba31a3e8
