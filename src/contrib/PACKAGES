@@ -16,8 +16,7 @@ Package: covdata
 Version: 0.9
 Depends: R (>= 2.10)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr,
-         slider, tidyverse, testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 20fe8e544b459425caeb5f9e1c1b879a
 NeedsCompilation: no
@@ -26,8 +25,7 @@ Package: covmobility
 Version: 0.1.8
 Depends: R (>= 3.5.0)
 Imports: dplyr, magrittr, tidyr
-Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr,
-         slider, tidyverse, testthat
+Suggests: drat, ggforce, ggrepel, lubridate, knitr, rmarkdown, scales, skimr, slider, tidyverse, testthat
 License: MIT + file LICENSE
 MD5sum: 35791aacf6f9063da6f28cb86fcead36
 NeedsCompilation: no
@@ -49,8 +47,7 @@ Package: gssr
 Version: 0.3.6
 Depends: R (>= 3.5)
 Imports: curl, dplyr, fs, haven, here, magrittr, purrr, rlang, tibble, tidyselect
-Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr,
-         rmarkdown
+Suggests: drat, forcats, ggplot2, scales, stringr, survey, srvyr, tidyr, knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: ec692656a01a54c66a9a2fc87f97156e
 NeedsCompilation: no
@@ -69,9 +66,10 @@ MD5sum: fa63cc3edea8fb483c97a5ac19b13240
 NeedsCompilation: no
 
 Package: ukelection2019
-Version: 0.0.0.9000
+Version: 0.0.1.9000
+Depends: R (>= 2.10)
 License: MIT + file LICENSE
-MD5sum: e1d8ee982df151f56e7e45bcdba06431
+MD5sum: 6b87dbb7fc436bfd9006d26af8339f45
 NeedsCompilation: no
 
 Package: uscenpops
